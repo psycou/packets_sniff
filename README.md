@@ -12,4 +12,4 @@ root@root:~$ pip install --pre scapy[basic]
 
 Usage
 
-root@root:~$ python packets_sni.py -t <Exemple: 192.168.1.3>
+root@root:~$ python packets_snif.py -t <Exemple: 192.168.1.3>
